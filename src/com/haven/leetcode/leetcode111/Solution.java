@@ -18,7 +18,7 @@ public class Solution {
         return min_deepin+1;
     }
     public static void main(String[] args) {
-        int [] rootArray={2,0,3,0,4,0,5,0,6, Integer.parseInt(null)};
+        int [] rootArray={2,0,3,0,4,0,5,0,6};
         TreeNode root=new TreeNode(3);
         TreeNode root1=new TreeNode(9);
         root.left=root1;
@@ -30,6 +30,6 @@ public class Solution {
         root2.right=root6;
         Solution solution = new Solution();
         System.out.println(solution.minDepth(root));
-        System.out.println(Integer.parseInt(null));
+
     }
 }
