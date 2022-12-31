@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85609828-ae3e-4cc6-bb66-989da813482e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/haven/leetcode/leetcode2296/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,15 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode2296/TextEditor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-              <folding>
-                <element signature="e#1235#1236#0" expanded="true" />
-                <element signature="e#1263#1264#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="19" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -74,13 +79,14 @@
         <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode1195/FizzBuzz6.java" />
         <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode1195/FizzBuzz7.java" />
         <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode2296/TextEditor.java" />
+        <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="118" />
-    <option name="y" value="96" />
-    <option name="width" value="1768" />
+    <option name="x" value="117" />
+    <option name="y" value="95" />
+    <option name="width" value="1769" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -107,13 +113,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2296" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -125,7 +124,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1672364354305" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1672496798075" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo/xmall-master/xmall-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -239,18 +238,27 @@
       <workItem from="1663552200415" duration="3731000" />
       <workItem from="1664003026430" duration="2210000" />
       <workItem from="1664175858759" duration="1424000" />
-      <workItem from="1671948339356" duration="14626000" />
+      <workItem from="1671948339356" duration="15373000" />
+      <workItem from="1672496517143" duration="278000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode2296">
+      <created>1672364391002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672364391002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55263000" />
+    <option name="totallyTimeSpent" value="56288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15281501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15482573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -314,6 +322,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode2296" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode2296" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_333/src.zip!/java/util/Map.java">
@@ -629,12 +641,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode2296/TextEditor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="e#1235#1236#0" expanded="true" />
-            <element signature="e#1263#1264#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="19" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
