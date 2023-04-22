@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85609828-ae3e-4cc6-bb66-989da813482e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Atomicboolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Visit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haven/leetcode/leetcode2180/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haven/leetcode/leetcode2283/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,19 +21,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode2296/TextEditor.java">
+        <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Visit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="840">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Atomicboolean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="19" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="7" column="13" selection-start-line="6" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -80,13 +83,26 @@
         <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode1195/FizzBuzz7.java" />
         <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode2296/TextEditor.java" />
         <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode2180/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/haven/leetcode/leetcode2283/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Visit.java" />
+        <option value="$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Atomicboolean.java" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.8.5\conf\repository" />
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.8.5-bin/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.8.5-bin\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="117" />
+    <option name="x" value="115" />
     <option name="y" value="95" />
-    <option name="width" value="1769" />
+    <option name="width" value="1770" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -102,17 +118,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -124,11 +129,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1672496798075" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo/xmall-master/xmall-master" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1674224227931" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,13 +147,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortList">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haven.leetcode.leetcode239.Solution" />
+  <component name="RunManager" selected="Application.Atomicboolean">
+    <configuration name="Atomicboolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haven.leetcode.atomicboolean_test.Atomicboolean" />
       <module name="tree the smallest deepin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.haven.leetcode.leetcode239.*" />
+          <option name="PATTERN" value="com.haven.leetcode.atomicboolean_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WCCdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haven.leetcode.weaklyconnectedcomponent.WCCdemo" />
+    <configuration name="Visit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haven.leetcode.atomicboolean_test.Visit" />
       <module name="tree the smallest deepin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.haven.leetcode.weaklyconnectedcomponent.*" />
+          <option name="PATTERN" value="com.haven.leetcode.atomicboolean_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atomicboolean" />
+        <item itemvalue="Application.Visit" />
         <item itemvalue="Application.SortList" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.WCCdemo" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +244,14 @@
       <workItem from="1664003026430" duration="2210000" />
       <workItem from="1664175858759" duration="1424000" />
       <workItem from="1671948339356" duration="15373000" />
-      <workItem from="1672496517143" duration="278000" />
+      <workItem from="1672496517143" duration="315000" />
+      <workItem from="1672708553059" duration="5646000" />
+      <workItem from="1673009177928" duration="1332000" />
+      <workItem from="1673051477673" duration="160000" />
+      <workItem from="1673398278992" duration="702000" />
+      <workItem from="1673436140294" duration="2757000" />
+      <workItem from="1674040931202" duration="3137000" />
+      <workItem from="1679621797413" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode2296">
       <created>1672364391002</created>
@@ -248,14 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672364391002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leetcode1877">
+      <created>1672496834451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672496834451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56288000" />
+    <option name="totallyTimeSpent" value="70150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15482573" />
@@ -267,8 +286,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15439093" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46600565" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.27903682" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.46600565" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,7 +295,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.2793296" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.21388102" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -325,16 +344,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode2296" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode2296" />
+    <MESSAGE value="leetcode1877" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode1877" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_333/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode30/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -639,6 +652,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode2180/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode2296/TextEditor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -646,10 +673,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode1877/Solution.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_333/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="19" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="16770">
+          <caret line="585" column="24" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/leetcode2283/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Visit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/haven/leetcode/atomicboolean_test/Atomicboolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="6" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
